@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Piedra&display=swap');
+* { margin: 0px;
+padding: 0px;
+    box-sizing: border-box; 
+}
+
+.lol h1{ background-color: darkred; width: 175px; font-family: serif; z-index: 3px; border-radius: 8px;
+    
+ color: whitesmoke; margin-top: -11px; margin-left: 13px;font-size: 32px; text-shadow: 20px 10px 10px black;
+}
+
+.lol form{ display: inline-block; 
+    
+  float: right; position: relative; right: 50px; bottom: 15px;
+}
+
+.lol {display:inline-block; background-image: url(The%20Weeknd%20Trillogy%20Amazing%20Rap%20Wallpapers.jpg); background-position: center;
+    
+    
+   height: 54px; border: 1.5px solid black; width: 100%; position: fixed;
+   ; border-radius: 14px; transition: all 2s;
+}
+
+.lol ul li{ 
+    
+  color: floralwhite; float: right; list-style: none; padding: 12px; font-size: 24px;
+    margin-right: 20px; position: relative; top: -2px;
+}
+
+
+.lol ul li a{
+    text-decoration: none; color: whitesmoke; border-bottom: 1.5px solid red; text-transform: uppercase;
+}
+
+.lol ul li a:hover{
+    background-color: red; box-shadow: 1px 0px 18px 5px red; border-radius: 5px;
+}
+ 
+.lol input{ border: 2px solid black; border-radius:20px; font-size: 34px; 
+}
+
+.lol input:hover{ font-size: 34px; box-shadow: 1px 0px 18px 5px black;
+}
+
+.lol {
+    align-content: center;
+}
+
+
+.bib { background-image: url(The%20Weeknd%20HD%201%20Rap%20Wallpapers.jpg);background-position: center;background-size: cover;color: white ;width: 100%; height: 550px; margin-top: 20px; 
+}
+
+.bib h1  h2 { position: relative; left: 30px; text-shadow: 10px 0px 0px black;
+    font-size: 100px; color: azure;
+}
+.liss { border: 1px solid white; margin: 0px; padding: 0px;
+ padding: 40px ; background-color: black;color: white; width: 130px;
+  border-radius: 10px;  
+}
+    
+.plz { display: flex ; 
+    justify-content: center; 
+ flex-wrap: wrap;  
+}
+
+.plz img{ 
+    width: 480px; height: 300px; transition: all 0.3s ; 
+}
+
+
+.plz img:hover{ 
+    transform: scale(1.1); box-shadow: 1px 0px 18px 5px yellow; 
+}
+
+.line {
+    border-bottom: 3px solid black; width: 1100px; position: absolute; left: 145px; text-align: center;
+}
+
+#zft {
+    text-align: center;
+} 
+
+#zft article { background-color: black; margin: 43px; padding: 25px; position: inherit; right: center; border: 2px solid darkred; box-shadow: 1px 0px 18px 5px black; cursor: pointer;
+    justify-content: center;
+     display: inline-block; 
+    color: red; width: 370px; height: 300 120px; text-align: center;  
+}
+
+#zft article:active{
+    opacity: .7; 
+}
+#zft article img:hover{
+    
+}
+article p{
+    color: whitesmoke; height: 40px; 
+}
+
+
+#zft img:hover{
+box-shadow: 1px 0px 18px 5px red; 
+}
+
+
+
+
+
+
+
+
+
+.head { 
+    color: black; font-family: 'Piedra', cursive; margin-top: 70px;}
+
+
+.wawa { margin: 20px; width: 570px; height: 120px; border: 2px solid white;
+padding: 10px; background-color: black; color: whitesmoke; position: sticky; top: 0%;
+}
+.wawa table{
+
+}
+.lolla { color: white ; width: 400px; background-color: black; height: 360px; }
+
+.hoh {
+    background-color: aliceblue; width: 500px; position: sticky; left: 300px;
+}
+f
+.hoh form button:hover{ font-size: 20px;
+    color: red;
+}
+.hoh form button:focus{background-color: black;outline: none; }
+.hoh form input:hover{background-color: black; outline: none; }
